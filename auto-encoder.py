@@ -22,7 +22,7 @@ import numpy as np
 EPOCH = 10
 BATCH_SIZE = 64
 LR = 0.005         # learning rate
-DOWNLOAD_MNIST = False
+DOWNLOAD_MNIST = True
 N_TEST_IMG = 5
 
 # Mnist digits dataset
